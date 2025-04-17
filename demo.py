@@ -154,10 +154,18 @@ if __name__ == '__main__':
 
     # usage demo
     lines = [
-        "Now this is a story all about how",
-        "My life got flipped turned upside down",
-        "And I'd like to take a minute, just sit right there",
-        "I'll tell you how I became the prince of a town called Bel-Air",
+"Hello, my name is Troy Johnson, and I'm an Affiliate Broker with Weichert Realtors Saxon Clark- as well as a nearby neighbor.",
+
+"I wanted to personally reach out to see if you, or someone you know, may be considering buying or selling a home
+now or the near future.",
+
+"If so, I'd be honored to assist. For anyone thinking about selling, I also offer a complimentary market 
+analysis to help determine the cyrrent value of their home.",
+
+"Please feel free to reach out anytime- I'd love the opportunity to be of service.",
+
+"Warm regards,",
+"Troy Johnson",
     ]
     biases = [.75 for i in lines]
     styles = [9 for i in lines]
